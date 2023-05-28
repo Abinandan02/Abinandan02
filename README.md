@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abinandan02
+- 👋 Hi, I’m Abinandan
 - 👀 I’m interested in Java and Full stack Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Front end and Back end applications
