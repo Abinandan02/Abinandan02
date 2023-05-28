@@ -3,7 +3,7 @@
 - :bar_chart: I mainly work for Banking Industries.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Front end and Back end applications
-- 📫 How to reach me linkedIn: https://www.linkedin.cn/in/abinandan-naik-ss100/
+- 📫 How to reach me linkedIn: https://www.linkedin.com/in/abinandan-naik-ss100/
 Gmail: abinandannaik@gmail.com
 
 <!---
