@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abinandan
-- 👀 I’m interested in Java and Full stack Development
+- 👀 I’m specialised in Java and spring boot Development
 - :bar_chart: I mainly work for Banking Industries.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Front end and Back end applications
